@@ -9,7 +9,7 @@ SYS:Este módulo fornece acesso a algumas variáveis usadas ou mantidas pelo int
 DATETIME:O módulo fornece classes para manipulação de datas e horas.
 
 
-Função que irá realizar o escaneamento das  portas .
+Função que irá realizar a varredura das portas.
 
 ![image](https://user-images.githubusercontent.com/82813718/133997069-60be8ee3-8669-4bc7-8a1a-914d22ec73fb.png)
 
