@@ -33,7 +33,7 @@ Socket.gaierror: O hostname não poderá ser resolvido e o programa será interr
 
 Socket.error : Não foi possível uma conexão com o servidor e o programa será interrompido.
 
-Verifica se o programa está rodando.
+Verifica  se  o programa está rodando.
 
 ![image](https://user-images.githubusercontent.com/82813718/133998738-63678316-85e4-434a-b217-170ab932d088.png)
 
